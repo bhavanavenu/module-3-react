@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import contacts from './contacts.json'
 import './index.css';
 
 class App extends React.Component {
